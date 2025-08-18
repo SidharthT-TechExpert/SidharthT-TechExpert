@@ -33,8 +33,10 @@ I'm a full-stack developer building clean and scalable web applications.
 
 ### Connect with
 
-<img width="20" height="20" src="https://github.com/user-attachments/assets/eaf29f9b-38a8-4e9a-9c71-b66e04b5031e" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/imsidharth-techexpert/)  
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e40f55bf-b96c-41cc-9b50-4917fb360649" /> [GitHub](https://github.com/SidharthT-TechExpert)  
+<img width="20" height="20" src="https://github.com/user-attachments/assets/00adda38-8242-41ae-ae20-fe63d6055b50" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/imsidharth-techexpert/)  
+
+
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/498b2f12-7017-4b52-b74b-486ffdae9f84" /> [GitHub](https://github.com/SidharthT-TechExpert)  
 
 <img width="20" height="20" src="https://github.com/user-attachments/assets/0321463e-9d86-45a0-abba-f275367e48b0" alt="YouTube"/> [YouTube](https://www.youtube.com/@ImSidharthT)
 

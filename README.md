@@ -35,7 +35,8 @@ I'm a full-stack developer building clean and scalable web applications.
 
 <img width="20" height="20" src="https://github.com/user-attachments/assets/eaf29f9b-38a8-4e9a-9c71-b66e04b5031e" alt="LinkedIn"/> [LinkedIn](https://www.linkedin.com/in/imsidharth-techexpert/)  
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e40f55bf-b96c-41cc-9b50-4917fb360649" /> [GitHub](https://github.com/SidharthT-TechExpert)  
-<img width="20" height="20" src="https://github.com/user-attachments/assets/fe534ac9-f211-4b94-b6c4-8d3f0acaedd3" alt="YouTube"/> [YouTube](https://www.youtube.com/@ImSidharthT)
+
+<img width="20" height="20" src="https://github.com/user-attachments/assets/0321463e-9d86-45a0-abba-f275367e48b0" alt="YouTube"/> [YouTube](https://www.youtube.com/@ImSidharthT)
 
 <div align="center">
   <h3>💫 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>

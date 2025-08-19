@@ -2,7 +2,7 @@
 
 I'm a full-stack developer building clean and scalable web applications.
 <!-- Typing Animation --> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Mozilla+text&weight=600&size=28&duration=3000&pause=999&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast" alt="Typing SVG" />
 ## 🛠️ Tech Stack
 
 - 💻 Languages: JavaScript

@@ -84,8 +84,8 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <a href="https://www.linkedin.com/in/imsidharth-techexpert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover_color=1E90FF"/></a>
   <a href="https://github.com/SidharthT-TechExpert" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=505050"/></a>
   <a href="https://www.youtube.com/@ImSidharthT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&hover_color=FF6347"/></a>
-  <a href="https://t.me/SidharthTechExpert" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&hover_color=1E90FF"/></a>
-  <a href="https://www.instagram.com/_sidhar_th_t/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=FF69B4"/></a>
+  <a href="https://t.me/Sidharth_T" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&hover_color=1E90FF"/></a>
+  <a href="https://www.instagram.com/im_sidhar_th/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=FF69B4"/></a>
 </div>
 
 ---

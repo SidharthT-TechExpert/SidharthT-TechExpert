@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** building clean, scalable web apps with a passion for debugging and dark mode. 🌑
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast;Node.js+&+MongoDB+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&center=true&vCenter=true&width=600&height=30&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ---

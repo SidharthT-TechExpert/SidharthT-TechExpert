@@ -98,9 +98,3 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 </div>
 
-<style>
-@keyframes glow {
-  from { text-shadow: 0 0 5px #ff4b2b, 0 0 10px #ff416c; }
-  to { text-shadow: 0 0 20px #ff416c, 0 0 30px #ff4b2b; }
-}
-</style>

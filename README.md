@@ -19,7 +19,7 @@ I'm a full-stack developer building clean and scalable web applications.
 
 ## 📊 GitHub Stats
 
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SidharthT-TechExpert&show_icons=true&theme=radical)
+![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical)
 
 ## ⚡ Fun Facts
 

@@ -39,7 +39,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Sidharth's GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical&count_private=true&hide_border=true" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
 </p>
 

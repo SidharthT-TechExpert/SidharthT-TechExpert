@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** building clean, scalable web apps with a passion for debugging and dark mode. 🌑
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;Node.js+%7C+Express+%7C+MongoDB;JavaScript+%7C+HTML+%7C+CSS;MEAN+Stack+Enthusiast;AWS+%7C+Razorpay+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=40&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,8 +19,6 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/🟦 CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&hover_color=1E90FF"/></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/🟪 Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&hover_color=7B68EE"/></a>
   <a href="#"><img alt="Redis" src="https://img.shields.io/badge/🟥 Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&hover_color=FF6347"/></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/☁️ AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&hover_color=1E1E1E"/></a>
-  <a href="#"><img alt="Razorpay" src="https://img.shields.io/badge/💳 Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white&hover_color=1E90FF"/></a>
 </p>
 
 ---
@@ -28,11 +26,9 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 ## 🚀 Projects
 
 <div align="center">
-
 | Project | Description | GitHub | Demo |
 |---------|-------------|--------|------|
 | 🛒 Zapstore | Full-stack e-commerce app with Node.js & MongoDB | [GitHub](https://github.com/Sarathjithu89/Zapstore) | - |
-
 </div>
 
 ---
@@ -48,12 +44,24 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ## ⚡ Fun Facts
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/coffee.png" width="25"/> Coffee keeps me awake for 24 hours<br>
-  <img src="https://img.icons8.com/color/48/000000/headphones.png" width="25"/> Music & coding = perfect combo<br>
-  <img src="https://img.icons8.com/color/48/000000/debug.png" width="25"/> Love debugging more than coding<br>
-  <img src="https://img.icons8.com/color/48/000000/night.png" width="25"/> Huge fan of dark mode themes
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="background:#ff4757; border-radius:10px; padding:15px; margin:5px; color:white;">
+        ☕ <br> Coffee keeps me awake 24h
+      </td>
+      <td align="center" style="background:#1E90FF; border-radius:10px; padding:15px; margin:5px; color:white;">
+        🎵 <br> Music & Coding = Perfect Combo
+      </td>
+      <td align="center" style="background:#28a745; border-radius:10px; padding:15px; margin:5px; color:white;">
+        🐛 <br> Debugging > Coding
+      </td>
+      <td align="center" style="background:#ffb142; border-radius:10px; padding:15px; margin:5px; color:white;">
+        🌑 <br> Dark Mode Fan
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -69,19 +77,19 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/imsidharth-techexpert/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover_color=1E90FF"/></a>
-  <a href="https://github.com/SidharthT-TechExpert"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=505050"/></a>
-  <a href="https://www.youtube.com/@ImSidharthT"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&hover_color=FF6347"/></a>
-  <a href="https://t.me/SidharthTechExpert"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&hover_color=1E90FF"/></a>
-  <a href="https://www.instagram.com/_sidhar_th_t/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=FF69B4"/></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/imsidharth-techexpert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover_color=1E90FF"/></a>
+  <a href="https://github.com/SidharthT-TechExpert" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=505050"/></a>
+  <a href="https://www.youtube.com/@ImSidharthT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&hover_color=FF6347"/></a>
+  <a href="https://t.me/SidharthTechExpert" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&hover_color=1E90FF"/></a>
+  <a href="https://www.instagram.com/_sidhar_th_t/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=FF69B4"/></a>
+</div>
 
 ---
 
 <div align="center">
   <p style="font-size: 18px;">Thanks for visiting my GitHub! Keep <b>building</b> and <b>learning</b>! 🔧💻</p>
-  <hr style="width:50%; border:1px solid #ff4757;">
+  <hr style="width:50%; border:2px solid #ff4757; border-radius:5px;">
 </div>
 
 <style>

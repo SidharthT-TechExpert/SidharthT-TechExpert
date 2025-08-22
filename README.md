@@ -27,14 +27,11 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 </p>
 
 ---
+## 🚀 Projects  
 
-## 🚀 Projects
-
-<div align="center">
-| Project | Description | GitHub | Demo |
-|---------|-------------|--------|------|
-| 🛒 Zapstore | Full-stack e-commerce app with Node.js & MongoDB | [GitHub](https://github.com/Sarathjithu89/Zapstore) | - |
-</div>
+| Project   | Description | GitHub Repo |
+|-----------|-------------|-------------|
+| 🛒 **Zapstore** | Full-stack e-commerce app built with **Node.js, Express & MongoDB** | [🔗 GitHub](https://github.com/Sarathjithu89/Zapstore) |
 
 ---
 

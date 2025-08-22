@@ -42,20 +42,20 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
+## 💡 Daily Inspiration
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&font=Fira+Code&size=24" alt="Quote of the Day" />
+</p>
+
+---
+
 ## ⚡ Fun Facts
 
 - 🚀 I love debugging more than coding  
 - 🌑 Huge fan of dark mode themes  
 - ☕ Coffee keeps me awake for 24 hours of coding  
 - 🎵 Music & coding = perfect combo  
-
----
-
-## 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</p>
 
 ---
 

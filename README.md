@@ -81,16 +81,6 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
-## 💡 Quote of the Day
-
-<p align="center">
-  <h3 style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent;">
-    "Coding is like solving a puzzle — every <b>bug fixed</b> is a <b>victory</b>." – Sidharth
-  </h3>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">

@@ -8,6 +8,17 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
+
+
+---
+## 🚀 Projects  
+
+| Project | Description | Tech Stack | GitHub | Demo |
+|---------|-------------|------------|--------|------|
+| 🛒 **Zapstore** | A full-stack e-commerce app with user authentication, product catalog, cart, and order management. | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/Sarathjithu89/Zapstore) | 🌐 [Live Demo](https://your-demo-link.com) |
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -42,17 +53,6 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <img alt="Postman" src="https://img.shields.io/badge/📮 Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
-
-
----
-## 🚀 Projects  
-
-| Project | Description | Tech Stack | GitHub | Demo |
-|---------|-------------|------------|--------|------|
-| 🛒 **Zapstore** | A full-stack e-commerce app with user authentication, product catalog, cart, and order management. | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/Sarathjithu89/Zapstore) | 🌐 [Live Demo](https://your-demo-link.com) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

@@ -73,7 +73,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 <div align="center">
   <h3 style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
-    "Coding is like solving a puzzle — every <b>bug fixed</b> is a <b>victory</b>." – Sidharth
+    "Programming is like painting — every line of code adds color to the bigger picture." – Sidharth
   </h3>
 </div>
 

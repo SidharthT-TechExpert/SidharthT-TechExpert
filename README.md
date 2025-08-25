@@ -66,26 +66,27 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ Fun Facts  
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="background:#ff4757; border-radius:10px; padding:15px; margin:5px; color:white;">
-        ☕ <br> Coffee keeps me awake 24h
+      <td align="center" style="background:#E63946; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
+        ☕ <br> Coffee = My Fuel  
       </td>
-      <td align="center" style="background:#1E90FF; border-radius:10px; padding:15px; margin:5px; color:white;">
-        🎵 <br> Music & Coding = Perfect Combo
+      <td align="center" style="background:#1D3557; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
+        🎵 <br> Music + Code = Flow  
       </td>
-      <td align="center" style="background:#28a745; border-radius:10px; padding:15px; margin:5px; color:white;">
-        🐛 <br> Debugging > Coding
+      <td align="center" style="background:#2A9D8F; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
+        🐛 <br> Debugging > Writing Code  
       </td>
-      <td align="center" style="background:#ffb142; border-radius:10px; padding:15px; margin:5px; color:white;">
-        🌑 <br> Dark Mode Fan
+      <td align="center" style="background:#FF9F1C; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
+        🌑 <br> Proud Dark Mode Fan  
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
@@ -93,21 +94,32 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 <div align="center">
   <h3 style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
-    "Programming is like painting — every line of code adds color to the bigger picture." – Sidharth
+    "Programming is like art — each line of code shapes the canvas into something meaningful." – Sidharth
   </h3>
 </div>
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/imsidharth-techexpert/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover_color=1E90FF"/></a>
-  <a href="https://github.com/SidharthT-TechExpert" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=505050"/></a>
-  <a href="https://www.youtube.com/@ImSidharthT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&hover_color=FF6347"/></a>
-  <a href="https://t.me/Sidharth_T" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&hover_color=1E90FF"/></a>
-  <a href="https://www.instagram.com/im_sidhar_th/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&hover_color=FF69B4"/></a>
+  <a href="http://www.linkedin.com/in/imsidharth-techexpert" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SidharthT-TechExpert" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@ImSidharth-TechExpert" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://t.me/SidharthTechExpert" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_sidhar_th_t/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
+
 
 ---
 

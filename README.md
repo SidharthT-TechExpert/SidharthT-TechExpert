@@ -76,7 +76,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=radical&hide_border=true"
     alt="GitHub Streak" 
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
   />

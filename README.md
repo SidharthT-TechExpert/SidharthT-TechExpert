@@ -108,11 +108,11 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
-## 💡 Quote of the Day
+## 💡 Quote of the Week
 
 <div align="center">
   <h3 style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
-    "Programming is like art — each line of code shapes the canvas into something meaningful." – Sidharth
+    "Your projects always solve practical, people-centered problems. That’s the difference between a coder and a builder..." – Sidharth
   </h3>
 </div>
 

@@ -6,7 +6,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast" alt="Typing SVG" />
 </p>
 
----
+--- 
 --- 
 ## 🚀 Projects  
 
@@ -62,16 +62,18 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 <p align="center">
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-sigma-khaki-80.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
   />
+
  
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=radical&hide_border=true"
     alt="GitHub Streak" 
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
   />
+
 </p>
   <!-- Top Languages 
   <img 

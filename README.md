@@ -129,7 +129,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <a href="https://github.com/SidharthT-TechExpert" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/@ImSidharth-TechExpert" target="_blank">
+  <a href="https://www.youtube.com/@ImSidhartht" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://t.me/SidharthTechExpert" target="_blank">

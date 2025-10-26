@@ -135,7 +135,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
   <a href="https://t.me/Sidharth_T" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/_sidhar_th_t/" target="_blank">
+  <a href="https://www.instagram.com/im_sidhar_th/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>

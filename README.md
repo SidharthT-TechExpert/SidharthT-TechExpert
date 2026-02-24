@@ -12,7 +12,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 | Project | Description | Tech Stack | GitHub | Demo |
 |---------|-------------|------------|--------|------|
-|🗓️ Attendance Tracker | A full-stack web application for managing and tracking student attendance with authentication and role-based access. | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/SidharthT-TechExpert/attendance-trackers) | 🌐 [Live Link](https://attendance-trackers.vercel.app/) |
+|🗓️ Attendance Tracker | A full-stack web application for managing and tracking student attendance with authentication and role-based access. More about it [YT Link](https://youtu.be/tnSD40zyTc0)  | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Firebase DB](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/SidharthT-TechExpert/attendance-trackers) | 🌐 [Live Link](https://attendance-trackers.vercel.app/) |
 
 
 --- 

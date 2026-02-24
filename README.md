@@ -12,7 +12,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 | Project | Description | Tech Stack | GitHub | Demo |
 |---------|-------------|------------|--------|------|
-| 🛒 **Zapstore** | A full-stack e-commerce app with user authentication, product catalog, cart, and order management. | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/Sarathjithu89/Zapstore) | 🌐 [Live Demo](https://your-demo-link.com) |
+|🗓️ Attendance Tracker | A full-stack web application for managing and tracking student attendance with authentication and role-based access. | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/SidharthT-TechExpert/attendance-trackers) | 🌐 [Live Link](https://attendance-trackers.vercel.app/) |
 
 
 --- 

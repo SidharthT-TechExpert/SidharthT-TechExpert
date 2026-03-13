@@ -61,18 +61,19 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 <p align="center">
   <!-- GitHub Stats -->
- <img 
+ <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=radical&hide_border=true"
     alt="GitHub Streak" 
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
   />
   
- <img 
-    src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
+ <img  
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
   />
 </p>
+
   <!-- Top Languages 
   <img 
     src="https://github-readme-stats-one-rust-18.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
@@ -110,11 +111,9 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ## 💡 Quote of the Week
 
-<div align="center">
-  <h3 style="background: linear-gradient(to right, #ff416c, #ff4b2b); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
-    "Your projects always solve practical, people-centered problems. That’s the difference between a coder and a builder..." – Sidharth
-  </h3>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=false)
+<br>
 
 ---
 

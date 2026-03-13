@@ -111,7 +111,7 @@ I'm a **Full-Stack Developer** building clean, scalable web apps with a passion 
 
 ---
 
-## 💡 Quote of the Week
+## 💡 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=false)
 <br>
 

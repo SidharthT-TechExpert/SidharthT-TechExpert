@@ -1,150 +1,155 @@
-# 👋 Hi, I'm Sidharth!
+<div align="center">
 
-I'm a **Full-Stack Developer** building clean, scalable web apps with a passion for debugging and dark mode. 🌑
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&center=true&vCenter=true&width=700&height=70&lines=Full+Stack+Developer;MEAN+Stack+Enthusiast" alt="Typing SVG" />
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sidharth%20T&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20Cloud%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+MEAN+Stack+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🐛+Debugging+is+my+superpower" alt="Typing SVG" />
 </p>
 
---- 
---- 
-## 🚀 Projects  
-
-| Project | Description | Tech Stack | GitHub | Demo |
-|---------|-------------|------------|--------|------|
-|🗓️ Attendance Tracker | A full-stack web application for managing and tracking student attendance with authentication and role-based access. More about it [YT Link](https://youtu.be/tnSD40zyTc0)  | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Firebase DB](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [🔗 GitHub](https://github.com/SidharthT-TechExpert/attendance-trackers) | 🌐 [Live Link](https://attendance-trackers.vercel.app/) |
-
-
---- 
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-
-  <!-- Languages -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="OOPs" src="https://img.shields.io/badge/OOPs-2C3E50?style=for-the-badge"/>
-
-  <!-- Web Development -->
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-  <!-- Backend & Frameworks -->
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-  <!-- Databases -->
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-  <!-- Cloud & Payments -->
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Razorpay" src="https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white"/>
-
-  <!-- Tools & Platforms -->
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-  <!-- Design & Testing -->
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=SidharthT-TechExpert&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/SidharthT-TechExpert?style=for-the-badge&color=58A6FF&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
 </p>
 
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const sidharth = {
+  role        : "Full-Stack Developer",
+  stack       : ["MongoDB", "Express.js", "Angular / Node.js"],
+  languages   : ["JavaScript", "C", "HTML", "CSS"],
+  cloud       : ["AWS", "Firebase", "Vercel"],
+  tools       : ["Git", "Postman", "Figma", "Redis"],
+  passions    : ["Clean Code", "Dark Mode 🌑", "Debugging 🐛", "Coffee ☕"],
+  currentFocus: "Building scalable full-stack applications",
+  funFact     : "I debug faster with lo-fi music playing 🎵"
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
+|:---:|:---|:---:|:---:|
+| 🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [� Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
+<div align="center">
 
-  <img  
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
-    style="display:inline-block; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
-  />
-  
- <img 
-    src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block" 
-  />
+<img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="180" alt="Top Languages"/>
 
-</p>
+</div>
 
-  <!-- Top Languages 
-  <img 
-    src="https://github-readme-stats-one-rust-18.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
-    alt="Top Languages" 
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" 
-  /> -->
+<div align="center">
 
-  <!-- GitHub Streak -->
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+[![Sidharth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/Sidhartht-TechExpert)
+
+</div>
 
 ---
 
-## ⚡ Fun Facts  
+## ⚡ Fun Facts
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background:#E63946; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
-        ☕ <br> Coffee = My Fuel  
-      </td>
-      <td align="center" style="background:#1D3557; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
-        🎵 <br> Music + Code = Flow  
-      </td>
-      <td align="center" style="background:#2A9D8F; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
-        🐛 <br> Debugging > Writing Code  
-      </td>
-      <td align="center" style="background:#FF9F1C; border-radius:12px; padding:18px; margin:6px; color:white; font-weight:bold;">
-        🌑 <br> Proud Dark Mode Fan  
-      </td>
-    </tr>
-  </table>
-</div>
 
+| ☕ | 🎵 | 🐛 | 🌑 |
+|:---:|:---:|:---:|:---:|
+| **Coffee = My Fuel** | **Music + Code = Flow** | **Debugging > Writing Code** | **Proud Dark Mode Fan** |
+
+</div>
 
 ---
 
 ## 💡 Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=false)
-<br>
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false)
+
+</div>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/imsidharth-techexpert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SidharthT-TechExpert" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@ImSidhartht" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Sidharth_T" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/im_sidhar_th/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/imsidharth-techexpert)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SidharthT-TechExpert)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ImSidhartht)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sidharth_T)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_sidhar_th/)
+
+</div>
 
 ---
 
 <div align="center">
-  <p style="font-size: 18px;">Thanks for visiting my GitHub! Keep <b>building</b> and <b>learning</b>! 🔧💻</p>
 
-  <hr style="width:50%; border:1px solid #ff4757;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
+<p><i>Thanks for stopping by! Keep <b>building</b>, keep <b>learning</b> 🔧💻</i></p>
 
 </div>
-

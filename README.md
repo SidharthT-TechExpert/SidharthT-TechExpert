@@ -104,8 +104,8 @@ const sidharth = {
 
 <div align="center">
 
-<!-- GitHub Streak — official streak-stats service -->
-<img src="https://streak-stats.demolab.com?user=Sidhartht-TechExpert&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&border_radius=10" alt="GitHub Streak" height="175"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&border_radius=10" alt="GitHub Streak" height="175"/>
 
 </div>
 

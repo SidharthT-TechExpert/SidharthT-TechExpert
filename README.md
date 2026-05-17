@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sidharth%20T&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MEAN%20Stack%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sidharth%20T&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=19" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+MEAN+Stack+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🐛+Debugging+is+my+superpower;☕+Powered+by+Coffee+%26+Dark+Mode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+Node.js+%26+Express+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🐛+Debugging+is+my+superpower;☕+Powered+by+Coffee+%26+Dark+Mode" alt="Typing SVG" />
 
 <br/>
 
@@ -30,29 +30,114 @@ const sidharth = {
   languages   : ["JavaScript", "C", "HTML5", "CSS3"],
   cloud       : ["AWS", "Cloudinary", "Firebase", "Vercel"],
   tools       : ["Git", "Postman", "Figma", "Redis", "Socket.io", "Razorpay"],
-  auth        : ["Passport.js (Google OAuth)", "JWT", "bcrypt", "OTP"],
+  auth        : ["Passport.js (Google OAuth)", "JWT", "Argon2", "OTP (Twilio)"],
   passions    : ["Clean Code ✨", "Dark Mode 🌑", "Debugging 🐛", "Coffee ☕"],
   currentFocus: "Building production-ready full-stack applications",
   funFact     : "I debug faster with lo-fi music playing 🎵"
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="0" width="0" alt="preload"/>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
 
+---
+
+### 🛒 Electro — Full-Stack E-Commerce Platform
+
+> Production-ready e-commerce web application built for electronics retail. Covers the complete shopping lifecycle — from product discovery and cart management to payment processing, order tracking, returns, and admin operations.
+
 <div align="center">
 
-| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
-|:---:|:---|:---:|:---:|
-| � **Electro** | Production-ready full-stack e-commerce platform for electronics retail. Features multi-variant product catalog, Razorpay payments with 15-min stock reservation & retry flow, wallet system (top-up / refunds / referral credits), smart coupon engine, full return lifecycle with auto-refund, real-time stock via Socket.io, admin dashboard with sales reports, invoice PDF generation, Google OAuth + OTP auth, Redis caching, and rate limiting. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) | 📦 Repo · [🌐 Live](https://electro.sidhartht.online) |
-| �🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access control. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
+📦 **[GitHub Repo](https://github.com/SidharthT-TechExpert/Electro.V2)** &nbsp;|&nbsp; 🌐 **[electro.sidhartht.online](https://electro.sidhartht.online)**
 
 </div>
+
+<details>
+<summary><b>✨ Key Features — click to expand</b></summary>
+
+<br/>
+
+**�️ User Side**
+- Email + password signup with OTP verification, Google OAuth 2.0, Argon2 password hashing
+- Shop page with real-time AJAX filtering (category, brand, price range, search, sort)
+- Multi-variant product selection (color, RAM, storage, size, etc.) with real-time stock badges via Socket.io
+- Wishlist, cart with quantity controls, coupon application with live discount preview
+- Three payment methods: COD, Razorpay (online), Wallet
+- Razorpay: 15-minute payment window with stock reservation + retry flow
+- Buy Now — skip cart, order a single item directly
+- Full order lifecycle: cancel full order or individual items with proportional refund
+- Return request → approve → pickup scheduled → returned with auto wallet refund
+- Wallet system: top-up, order payment, refunds, referral credits
+- Unique referral code per user with wallet credit on successful referral
+- PDF invoice download per order
+
+**🔧 Admin Side**
+- Dashboard: revenue, orders, customers, product stats, sales chart (daily/weekly/monthly)
+- Catalog: categories, brands, products with multi-variant + Cloudinary image upload
+- Offer engine: product-level, category-level, brand-level offers (% or fixed, with max cap)
+- Coupon engine: expiry, usage limits, per-user limits, min order amount
+- Order management: search, status/payment filter, date range, item-level status updates
+- Smart cancellation with automatic refund routing (wallet / manual / on-hold)
+- Return pipeline: Requested → Approved → Pickup Scheduled → Returned with smart stock action
+- Customer management: view profile, order history, block/unblock
+- Sales reports with PDF and Excel export
+
+</details>
+
+<div align="center">
+
+| Layer | Technology |
+|:---:|:---|
+| **Runtime** | Node.js (ESM) |
+| **Framework** | Express.js v5 |
+| **Database** | MongoDB + Mongoose |
+| **Cache** | Redis |
+| **View Engine** | EJS + Tailwind CSS |
+| **Payments** | Razorpay |
+| **Storage** | Cloudinary + Multer |
+| **Auth** | Passport.js (Google OAuth 2.0), Argon2, JWT |
+| **Real-time** | Socket.io |
+| **Email / SMS** | Nodemailer + Twilio |
+| **PDF / Excel** | PDFKit + ExcelJS |
+| **Validation** | Joi |
+| **Security** | Helmet, express-rate-limit |
+| **Scheduler** | node-cron |
+| **Linting** | ESLint + Husky + lint-staged |
+
+</div>
+
+**Stack badges:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### �️ Attendance Tracker
+
+> Full-stack web app for managing & tracking student attendance with authentication and role-based access control.
+
+<div align="center">
+
+[▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) &nbsp;|&nbsp; [📦 GitHub Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) &nbsp;|&nbsp; [🌐 Live](https://attendance-trackers.vercel.app/)
+
+</div>
+
+**Stack badges:**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -86,18 +171,29 @@ const sidharth = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-**� Auth & Security**
+**🔐 Auth & Security**
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logoColor=white)
+![Argon2](https://img.shields.io/badge/Argon2-6D28D9?style=for-the-badge&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet.js-FF6600?style=for-the-badge&logoColor=white)
 
-**💳 Payments & Tools**
+**� Services & Tools**
 
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
+![PDFKit](https://img.shields.io/badge/PDFKit-FF0000?style=for-the-badge&logoColor=white)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Joi](https://img.shields.io/badge/Joi-0080FF?style=for-the-badge&logoColor=white)
+![node-cron](https://img.shields.io/badge/node--cron-68A063?style=for-the-badge&logoColor=white)
+
+**🔧 Dev Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -109,11 +205,11 @@ const sidharth = {
 ## 📊 GitHub Stats
 
 <div align="center">
- <img 
-    src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" 
-    alt="GitHub Stats" 
-    style=  "border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block" 
-  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" height="175" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" height="175" alt="Top Languages"/>
+
 </div>
 
 <div align="center">
@@ -173,6 +269,7 @@ const sidharth = {
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ImSidhartht)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sidharth_T)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/im_sidhar_th/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sidhartht.online)
 
 </div>
 

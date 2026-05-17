@@ -26,12 +26,13 @@
 ```javascript
 const sidharth = {
   role        : "Full-Stack Developer",
-  stack       : ["MongoDB", "Express.js", "Node.js", "Angular"],
+  stack       : ["MongoDB", "Express.js", "Node.js", "EJS", "Tailwind CSS"],
   languages   : ["JavaScript", "C", "HTML5", "CSS3"],
-  cloud       : ["AWS", "Firebase", "Vercel"],
-  tools       : ["Git", "Postman", "Figma", "Redis", "Razorpay"],
+  cloud       : ["AWS", "Cloudinary", "Firebase", "Vercel"],
+  tools       : ["Git", "Postman", "Figma", "Redis", "Socket.io", "Razorpay"],
+  auth        : ["Passport.js (Google OAuth)", "JWT", "bcrypt", "OTP"],
   passions    : ["Clean Code ✨", "Dark Mode 🌑", "Debugging 🐛", "Coffee ☕"],
-  currentFocus: "Building scalable full-stack applications",
+  currentFocus: "Building production-ready full-stack applications",
   funFact     : "I debug faster with lo-fi music playing 🎵"
 };
 ```
@@ -48,7 +49,8 @@ const sidharth = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
-| 🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access control. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
+| � **Electro** | Production-ready full-stack e-commerce platform for electronics retail. Features multi-variant product catalog, Razorpay payments with 15-min stock reservation & retry flow, wallet system (top-up / refunds / referral credits), smart coupon engine, full return lifecycle with auto-refund, real-time stock via Socket.io, admin dashboard with sales reports, invoice PDF generation, Google OAuth + OTP auth, Redis caching, and rate limiting. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) | 📦 Repo · 🌐 Live |
+| �🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access control. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
 
 </div>
 
@@ -69,7 +71,11 @@ const sidharth = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 
 **🗄️ Databases & Cloud**
 
@@ -78,14 +84,22 @@ const sidharth = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-**🔧 Tools & Platforms**
+**� Auth & Security**
 
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet.js-FF6600?style=for-the-badge&logoColor=white)
+
+**💳 Payments & Tools**
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
@@ -105,7 +119,7 @@ const sidharth = {
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=c9d1d9&border_radius=10" alt="GitHub Streak" height="175"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="175" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
 
 </div>
 

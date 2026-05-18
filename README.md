@@ -117,9 +117,9 @@ const sidharth = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10" height="175" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&border_radius=10" height="175" alt="Top Languages"/>
+<img src="https://github-readme-stats-hpkr.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
 
 </div>
 

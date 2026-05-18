@@ -39,7 +39,7 @@ const sidharth = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects &nbsp; <sub>newest → oldest</sub>
 
 <div align="center">
 

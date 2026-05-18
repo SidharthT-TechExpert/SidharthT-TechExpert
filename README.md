@@ -41,103 +41,14 @@ const sidharth = {
 
 ## 🚀 Featured Projects
 
----
-
-### 🛒 Electro — Full-Stack E-Commerce Platform
-
-> Production-ready e-commerce web application built for electronics retail. Covers the complete shopping lifecycle — from product discovery and cart management to payment processing, order tracking, returns, and admin operations.
-
 <div align="center">
 
-📦 **[GitHub Repo](https://github.com/SidharthT-TechExpert/Electro.V2)** &nbsp;|&nbsp; 🌐 **[electro.sidhartht.online](https://electro.sidhartht.online)**
+| 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
+|:---:|:---|:---:|:---:|
+| 🛒 **Electro** | Production-ready full-stack e-commerce platform for electronics retail. Multi-variant catalog, Razorpay payments with 15-min stock reservation & retry, wallet system, smart coupon engine, full return lifecycle with auto-refund, real-time stock via Socket.io, admin dashboard with sales reports & Excel/PDF export, Google OAuth + OTP auth, Redis caching, rate limiting. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/Electro.V2) · [🌐 Live](https://electro.sidhartht.online) |
+| 🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access control. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
 
 </div>
-
-<details>
-<summary><b>✨ Key Features — click to expand</b></summary>
-
-<br/>
-
-**�️ User Side**
-- Email + password signup with OTP verification, Google OAuth 2.0, Argon2 password hashing
-- Shop page with real-time AJAX filtering (category, brand, price range, search, sort)
-- Multi-variant product selection (color, RAM, storage, size, etc.) with real-time stock badges via Socket.io
-- Wishlist, cart with quantity controls, coupon application with live discount preview
-- Three payment methods: COD, Razorpay (online), Wallet
-- Razorpay: 15-minute payment window with stock reservation + retry flow
-- Buy Now — skip cart, order a single item directly
-- Full order lifecycle: cancel full order or individual items with proportional refund
-- Return request → approve → pickup scheduled → returned with auto wallet refund
-- Wallet system: top-up, order payment, refunds, referral credits
-- Unique referral code per user with wallet credit on successful referral
-- PDF invoice download per order
-
-**🔧 Admin Side**
-- Dashboard: revenue, orders, customers, product stats, sales chart (daily/weekly/monthly)
-- Catalog: categories, brands, products with multi-variant + Cloudinary image upload
-- Offer engine: product-level, category-level, brand-level offers (% or fixed, with max cap)
-- Coupon engine: expiry, usage limits, per-user limits, min order amount
-- Order management: search, status/payment filter, date range, item-level status updates
-- Smart cancellation with automatic refund routing (wallet / manual / on-hold)
-- Return pipeline: Requested → Approved → Pickup Scheduled → Returned with smart stock action
-- Customer management: view profile, order history, block/unblock
-- Sales reports with PDF and Excel export
-
-</details>
-
-<div align="center">
-
-| Layer | Technology |
-|:---:|:---|
-| **Runtime** | Node.js (ESM) |
-| **Framework** | Express.js v5 |
-| **Database** | MongoDB + Mongoose |
-| **Cache** | Redis |
-| **View Engine** | EJS + Tailwind CSS |
-| **Payments** | Razorpay |
-| **Storage** | Cloudinary + Multer |
-| **Auth** | Passport.js (Google OAuth 2.0), Argon2, JWT |
-| **Real-time** | Socket.io |
-| **Email / SMS** | Nodemailer + Twilio |
-| **PDF / Excel** | PDFKit + ExcelJS |
-| **Validation** | Joi |
-| **Security** | Helmet, express-rate-limit |
-| **Scheduler** | node-cron |
-| **Linting** | ESLint + Husky + lint-staged |
-
-</div>
-
-**Stack badges:**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Passport](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
----
-
-### �️ Attendance Tracker
-
-> Full-stack web app for managing & tracking student attendance with authentication and role-based access control.
-
-<div align="center">
-
-[▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) &nbsp;|&nbsp; [📦 GitHub Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) &nbsp;|&nbsp; [🌐 Live](https://attendance-trackers.vercel.app/)
-
-</div>
-
-**Stack badges:**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -178,7 +89,7 @@ const sidharth = {
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet.js-FF6600?style=for-the-badge&logoColor=white)
 
-**� Services & Tools**
+**📦 Services & Integrations**
 
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)

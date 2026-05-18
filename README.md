@@ -118,8 +118,6 @@ const sidharth = {
 <div align="center">
 
 <img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
-&nbsp;
-<img src="https://github-readme-stats-hpkr.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
 
 </div>
 

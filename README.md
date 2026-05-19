@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sidharth%20T&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=19" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+Node.js+%26+Express+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🐛+Debugging+is+my+superpower;☕+Powered+by+Coffee+%26+Dark+Mode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+Node.js+%26+Express+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🐛+Debugging+is+my+superpower;☕+Powered+by+Coffee+%26+Dark+Mode" alt="Typing SVG" />
 
 <br/>
 

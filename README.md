@@ -26,13 +26,13 @@
 ```javascript
 const sidharth = {
   role        : "Full-Stack Developer",
-  stack       : ["MongoDB", "Express.js", "Node.js", "EJS", "Tailwind CSS"],
+  stack       : ["MongoDB", "Express.js", "Node.js", "React", "EJS", "Tailwind CSS"],
   languages   : ["JavaScript", "C", "HTML5", "CSS3"],
-  cloud       : ["AWS", "Cloudinary", "Firebase", "Vercel"],
-  tools       : ["Git", "Postman", "Figma", "Redis", "Socket.io", "Razorpay"],
+  cloud       : ["Cloudflare R2", "AWS", "Cloudinary", "Firebase", "Vercel", "Railway"],
+  tools       : ["Git", "Postman", "Figma", "Redis", "Socket.io", "Razorpay", "Groq AI"],
   auth        : ["Passport.js (Google OAuth)", "JWT", "Argon2", "OTP (Twilio)"],
   passions    : ["Clean Code ✨", "Dark Mode 🌑", "Debugging 🐛", "Coffee ☕"],
-  currentFocus: "Building production-ready full-stack applications",
+  currentFocus: "Building production-ready full-stack & AI-powered applications",
   funFact     : "I debug faster with lo-fi music playing 🎵"
 };
 ```
@@ -45,6 +45,7 @@ const sidharth = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
+| 🎤 **Speak & Shine** | Production-ready full-stack English speaking practice platform. Daily AI-scored video submissions with speech analysis (fluency, grammar, confidence, vocabulary), visual analysis via Groq Vision, streak tracking with fine/reward system, real-time group chat & live session rooms via Socket.io, community video feed with reactions & comments, admin dashboard with fine management & question scheduler, WhatsApp bot integration, direct-to-R2 video uploads with browser frame extraction, noise cancellation, PWA support. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white) | [📦 Repo](https://github.com/rcbfanboy223-glitch/Speak-Shine-) · [🌐 Live](https://speak-shine.sidhartht.online) |
 | 🛒 **Electro** | Production-ready full-stack e-commerce platform for electronics retail. Multi-variant catalog, Razorpay payments with 15-min stock reservation & retry, wallet system, smart coupon engine, full return lifecycle with auto-refund, real-time stock via Socket.io, admin dashboard with sales reports & Excel/PDF export, Google OAuth + OTP auth, Redis caching, rate limiting. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=flat-square&logo=razorpay&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/Electro.V2) · [🌐 Live](https://electro.sidhartht.online) |
 | 🗓️ **Attendance Tracker** | Full-stack web app for managing & tracking student attendance with authentication and role-based access control. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
 
@@ -67,6 +68,8 @@ const sidharth = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -81,16 +84,12 @@ const sidharth = {
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
-**🔐 Auth & Security**
+**🤖 AI & Integrations**
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Argon2](https://img.shields.io/badge/Argon2-6D28D9?style=for-the-badge&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet.js-FF6600?style=for-the-badge&logoColor=white)
-
-**📦 Services & Integrations**
-
+![Groq AI](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=gmail&logoColor=white)
@@ -98,6 +97,14 @@ const sidharth = {
 ![ExcelJS](https://img.shields.io/badge/ExcelJS-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-0080FF?style=for-the-badge&logoColor=white)
 ![node-cron](https://img.shields.io/badge/node--cron-68A063?style=for-the-badge&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
+**🔐 Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Argon2](https://img.shields.io/badge/Argon2-6D28D9?style=for-the-badge&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Helmet](https://img.shields.io/badge/Helmet.js-FF6600?style=for-the-badge&logoColor=white)
 
 **🔧 Dev Tools**
 

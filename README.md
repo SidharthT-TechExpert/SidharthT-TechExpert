@@ -155,14 +155,14 @@ const sidharth = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="175" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
 
 </div>
 
 <div align="center">
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="175" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+<img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
 
 </div>
 

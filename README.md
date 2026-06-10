@@ -174,16 +174,6 @@ const sidharth = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sidhartht-TechExpert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/Sidhartht-TechExpert)
-
-</div>
-
----
-
 ## ⚡ Fun Facts
 
 <div align="center">

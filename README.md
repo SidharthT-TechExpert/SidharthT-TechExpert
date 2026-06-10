@@ -8,8 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=SidharthT-TechExpert&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/SidharthT-TechExpert?style=for-the-badge&color=0e75b6&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-brightgreen?style=for-the-badge" alt="Focus"/>
 
 </div>
@@ -156,6 +154,8 @@ const sidharth = {
 <div align="center">
 
 <img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
 
 </div>
 

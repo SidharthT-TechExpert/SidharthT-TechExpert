@@ -178,7 +178,7 @@ const sidharth = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sidhartht-TechExpert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=4&rank=SSS,SS,S,AAA,AA,A)](https://github.com/Sidhartht-TechExpert)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sidhartht-TechExpert&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6)](https://github.com/Sidhartht-TechExpert)
 
 </div>
 

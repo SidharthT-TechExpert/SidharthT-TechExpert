@@ -148,27 +148,47 @@ const sidharth = {
 - **Ship real products** — learn by building things that actually run in production
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=radical" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&layout=compact&theme=tokyonight" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2); display:inline-block"/>
+  <!-- Stats + Languages -->
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-hpkr.vercel.app/api?username=Sidhartht-TechExpert&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&icon_color=7AA2F7&text_color=C0CAF5"
+          alt="GitHub Stats"
+          height="180"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5"
+          alt="Top Languages"
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
 
-</div>
+  <br/>
 
-<div align="center">
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0D1117&ring=BB9AF7&fire=7AA2F7&currStreakLabel=BB9AF7&sideLabels=C0CAF5&currStreakNum=7AA2F7&sideNums=BB9AF7&dates=565F89"
+    alt="GitHub Streak"
+    height="180"
+  />
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Sidhartht-TechExpert&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" height="175" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);"/>
+  <br/><br/>
 
-</div>
-
-<div align="center">
-
-[![Sidharth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true&radius=8)](https://github.com/Sidhartht-TechExpert)
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0D1117&color=C0CAF5&line=BB9AF7&point=7AA2F7&area=true&hide_border=true&radius=8"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 
 </div>
 

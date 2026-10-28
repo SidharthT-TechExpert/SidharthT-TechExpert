@@ -184,11 +184,17 @@ const sidharth = {
   <br/><br/>
 
   <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0D1117&color=C0CAF5&line=BB9AF7&point=7AA2F7&area=true&hide_border=true&radius=8"
-    alt="GitHub Activity Graph"
-    width="100%"
-  />
+  <div align="center">
+
+  <a href="https://github.com/Sidhartht-TechExpert">
+    <img
+  src="https://github-readme-activity-graph-khaki-iota.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0D1117&color=C0CAF5&line=BB9AF7&point=7AA2F7&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
+  width="100%"
+/>
+  </a>
+
+</div>
 
 </div>
 

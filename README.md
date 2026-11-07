@@ -164,7 +164,7 @@ const sidharth = {
       </td>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5"
+          src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sidhartht-TechExpert&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB9AF7&text_color=C0CAF5&utm_source=chatgpt.com"
           alt="Top Languages"
           height="180"
         />

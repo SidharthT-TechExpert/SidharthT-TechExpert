@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sidharth%20T&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sidharth%20T&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+Node.js+%26+Express+Enthusiast;☁️+Cloud+%26+Backend+Explorer;�+Security-First+Engineering;🤖+AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=55&lines=👋+Hey+there!+I'm+Sidharth;🚀+Full-Stack+Developer;⚡+Node.js+%26+Express+Enthusiast;☁️+Cloud+%26+Backend+Explorer;🔐+Security-First+Engineering;🤖+AI-Powered+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -23,10 +23,10 @@ I'm a full-stack developer focused on building scalable backend systems, real-ti
 ```javascript
 const sidharth = {
   role        : "Full-Stack Developer",
-  stack       : ["Node.js", "Express.js", "React", "MongoDB", "Redis"],
-  cloud       : ["GCP", "AWS", "Cloudflare R2", "Railway", "Cloudinary", "Vercel"],
+  stack       : ["Node.js", "TypeScript", "NestJS", "Express.js", "React", "Expo", "PostgreSQL", "MongoDB", "Redis"],
+  cloud       : ["GCP", "AWS", "Cloudflare R2", "Neon", "Railway", "Cloudinary", "Vercel"],
   ai          : ["Groq API", "Whisper Large v3", "Llama 3.3 70B", "Llama 4 Scout"],
-  security    : ["JWT rotation", "Argon2", "RBAC", "CSP/HSTS", "SSRF protection"],
+  security    : ["JWT rotation", "Argon2id", "RBAC", "CSP/HSTS", "SSRF protection"],
   currentFocus: "Production-ready full-stack & AI-powered applications",
   funFact     : "I debug faster with lo-fi music playing 🎵"
 };
@@ -40,6 +40,7 @@ const sidharth = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
+| 🚚 **HireD TMS** <br/> <sub>*(Hackathon Team Project)*</sub> | Enterprise-grade Transportation Management System built as a hackathon team project with a NestJS modular monolith backend and 3 client apps (Admin Portal, B2B Company Portal, Expo Driver Mobile App). Automates end-to-end B2B order intake & dispatch, 5-step driver KYC onboarding, OTP-verified trip closure, immutable JSONB company/driver snapshots, automated revenue-split wallets & payroll, dual-admin invoice verification, and Cloudflare R2 presigned uploads—secured with Argon2id, dual-mode JWT rotation (`HttpOnly` cookies for web + `SecureStore` for mobile), and strict 3-tier RBAC. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | 🔒 Private Repo <br/> <sub>*(Hackathon Submission)*</sub> |
 | 🎤 **Speak & Shine** | AI-powered English speaking practice platform supporting real-time group chat, daily video uploads, and WebSocket communication. Implements JWT rotation with refresh token reuse detection, RBAC across 4 roles, full CSP/HSTS, SSRF protection, magic-byte video validation, and AI content moderation via Groq Vision. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/Speak-Shine-.git) · [🌐 Live](https://speak-shine.sidhartht.online) |
 | 🛒 **Electro** | Full-stack e-commerce platform with multi-variant catalog, Razorpay payments with 15-min stock reservation, wallet system with referral credits, smart coupon engine with proportional refunds, full return lifecycle, and admin dashboard with dynamic PDF/Excel report generation. Hosted on GCP. | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C66C2?style=for-the-badge&logo=razorpay&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/Electro.V2) · [🌐 Live](https://electro.sidhartht.online) |
 | 🗓️ **Attendance Tracker** | Full-stack web app for managing student attendance with role-based access control and real-time data. [▶️ Watch Demo](https://youtu.be/tnSD40zyTc0) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | [📦 Repo](https://github.com/SidharthT-TechExpert/attendance-trackers) · [🌐 Live](https://attendance-trackers.vercel.app/) |
@@ -57,6 +58,7 @@ const sidharth = {
 **💬 Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,16 +66,22 @@ const sidharth = {
 **🧩 Frameworks & Libraries**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **🗄️ Databases & Cloud**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -94,7 +102,7 @@ const sidharth = {
 **🔐 Auth & Security**
 
 ![JWT](https://img.shields.io/badge/JWT_Rotation-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Argon2](https://img.shields.io/badge/Argon2-6D28D9?style=for-the-badge&logoColor=white)
+![Argon2](https://img.shields.io/badge/Argon2id-6D28D9?style=for-the-badge&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Helmet](https://img.shields.io/badge/Helmet_CSP-FF6600?style=for-the-badge&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-DC2626?style=for-the-badge&logoColor=white)
@@ -110,6 +118,8 @@ const sidharth = {
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Infisical](https://img.shields.io/badge/Infisical-E0F151?style=for-the-badge&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -127,12 +137,13 @@ const sidharth = {
 | Layer | Details |
 |:---|:---|
 | **Hosting** | GCP (Electro), Railway (Speak & Shine), Vercel (static/frontend) |
-| **Object Storage** | Cloudflare R2 — direct browser uploads, SSRF-protected fetch |
+| **Databases** | Neon PostgreSQL (HireD), MongoDB Atlas, Redis |
+| **Secrets & Config** | Infisical & environment-based config — server refuses to start without required secrets |
+| **Object Storage** | Cloudflare R2 — direct browser/presigned uploads, SSRF-protected fetch |
 | **CDN / Media** | Cloudinary — image optimization & transformation |
 | **Caching** | Redis — session store, rate limiting, security scan cache (7-day TTL) |
-| **Auth** | JWT access (15 min) + refresh tokens (7 days) with rotation & reuse detection |
+| **Auth** | JWT access (15 min) + refresh tokens (7 days) with rotation, `HttpOnly` cookies, and reuse detection |
 | **Security Headers** | Helmet.js — full CSP, HSTS (1-year), objectSrc: none, frameSrc: none |
-| **Process** | Environment-based config — server refuses to start without required secrets |
 | **Reverse Proxy** | Trust proxy enabled — correct client IP behind Railway's load balancer |
 
 </div>
@@ -186,7 +197,7 @@ const sidharth = {
   <!-- Activity Graph -->
   <div align="center">
 
-  <a href="https://github.com/Sidhartht-TechExpert">
+  <a href="https://github.com/SidharthT-TechExpert">
     <img
   src="https://github-readme-activity-graph-khaki-iota.vercel.app/graph?username=Sidhartht-TechExpert&bg_color=0D1117&color=C0CAF5&line=BB9AF7&point=7AA2F7&area=true&hide_border=true"
   alt="GitHub Activity Graph"
